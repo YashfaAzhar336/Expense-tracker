@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+    <string-array name="income_selection">
+        <item>Business</item>
+        <item>Salary</item>
+        <item>Property</item>
+        <item>Stock Market</item>
+        <item>Agriculture</item>
+    </string-array>
+
+    <string-array name="bill">
+        <item>Internet</item>
+        <item>Gas</item>
+        <item>Water</item>
+        <item>House Rent</item>
+        <item>Loan</item>
+    </string-array>
+
+    <string-array name="grocery">
+        <item>Meat, poultry, and seafood</item>
+        <item>Dairy products</item>
+        <item>Bread and baked goods</item>
+        <item>Fruits and vegetables</item>
+        <item>Snacks </item>
+        <item>Beverages  </item>
+        <item>Spices and seasonings </item>
+    </string-array>
+    <string-array name="electronics">
+        <item>Televisions </item>
+        <item>Digital cameras</item>
+        <item>Refrigerators </item>
+        <item>Washing machine</item>
+        <item>Musical instruments</item>
+    </string-array>
+    <string-array name="gadgets">
+        <item>Smartphones </item>
+        <item>Tablets</item>
+        <item>Laptops  </item>
+        <item>Smartwatches </item>
+        <item>Headphones</item>
+        <item>Power banks</item>
+        <item>Drones</item>
+    </string-array>
+    <string-array name="wearable">
+        <item>Salwar Kameez </item>
+        <item>Shoes</item>
+        <item>Caps</item>
+        <item>T shirts</item>
+        <item>Pents</item>
+        <item>Trouser</item>
+    </string-array>
+    <string-array name="furniture">
+        <item>Beds</item>
+        <item>Chairs</item>
+        <item>Table</item>
+        <item>Sofas and couches</item>
+        <item>Room dividers</item>
+        <item>Dining table</item>
+    </string-array>
+    <string-array name="inventory">
+        <item>Raw materials</item>
+        <item>Work in progress</item>
+        <item>Finished goods</item>
+        <item>Buffer inventory</item>
+        <item>Cycle inventory</item>
+        <item>Transit inventory</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
